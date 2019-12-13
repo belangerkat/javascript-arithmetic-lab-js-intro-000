@@ -1,15 +1,5 @@
-var a = (5 * 1000)
-var b = (3 * 1000)
+a + b
+a - b
+a * b
+a / b
 
-function add() {
-  a + b
-}
-function subtract() {
-  a - b
-}
-function multiply() {
-  a * b
-}
-function divide() {
-  a / b
-}
