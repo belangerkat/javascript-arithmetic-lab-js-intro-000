@@ -1,5 +1,5 @@
-a = (number * 1000)
-b = (number * 1000)
+a = 5
+b = 15
 
 function add() {
   a + b
