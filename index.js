@@ -1,3 +1,5 @@
+a = (number * 1000)
+b = (number * 1000)
 
 function add() {
   a + b
