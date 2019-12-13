@@ -1,7 +1,6 @@
-var c = 5
-var d = 3
-var a = (c * 1000)
-var b = (d * 1000)
+
+var a = (5 * 1000)
+var b = (3 * 1000)
 
 function add() {
   a + b
