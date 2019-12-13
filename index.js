@@ -1,12 +1,12 @@
-add() {
+add(){
   a + b
 }
-subtract() {
+subtract(){
   a - b
 }
-multiply() {
+multiply(){
   a * b
 }
-divide() {
+divide(){
   a / b
 }
